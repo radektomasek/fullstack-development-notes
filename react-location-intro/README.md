@@ -1,6 +1,6 @@
 # Intro to React Location 
 
-> Note: This workshop handles the legacy React Location. In the foreseeable future, I would like to migrate it to [Tanstack Router](https://tanstack.com/router/latest/docs/framework/react/migrate-from-react-location).
+> Note: This workshop handles the legacy React Location. In the foreseeable future, I would like to migrate it to [Tanstack Router for React](https://tanstack.com/router/latest/docs/framework/react/migrate-from-react-location).
 
 When it comes to UI routing in React, a common choice is to use [React Router](https://reactrouter.com) which, without a doubt is an amazing and proven solution and its recent release of [v6](https://reactrouter.com/docs/en/v6) confirms that.
 

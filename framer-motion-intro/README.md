@@ -1,4 +1,4 @@
-# Framer Motion - an introduction
+# Introduction to Framer Motion
 
 In this workshop, we are going to show basic capabilities of [Framer Motion](https://www.framer.com/motion), an amazing library that helps you to create beautiful motion animations in React.
 

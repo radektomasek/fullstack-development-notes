@@ -1,4 +1,4 @@
-# Flutter Introduction - workshop
+# Introduction to Flutter
 
 In this session we are going to implement a simple app which fetches data from weather service and display them on a screen.
 

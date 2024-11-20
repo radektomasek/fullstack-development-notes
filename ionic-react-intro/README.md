@@ -1,4 +1,4 @@
-# Ionic React
+# Introduction to Ionic React
 
 This is a simple overview of the capabilities of Ionic Framework using React.
 

@@ -68,7 +68,7 @@ Here’s an overview of the topics currently available in this repository:
 
 - **[Svelte Advanced](./svelte-advanced)**  
   Advance your Svelte skills by working with Stores and TypeScript.
-- 
+
 - **[SvelteKit Intro](./sveltekit-intro)**  
   Use popular Meta-framework with Svelte helping you with building fullstack apps.
 

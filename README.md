@@ -1,14 +1,12 @@
-# Frontend Community Workshops Archive
+# Fullstack development notes
 
-Welcome to the **Frontend Community Workshops Archive**! This repository serves as a collection of learning materials I developed to promote knowledge sharing and collaboration on modern frontend principles during my time at [OVO Energy](https://www.ovoenergy.com)/[Kaluza](https://www.kaluza.com/).
+Welcome to the **Fullstack Development Notes**! This repository is a personal collection of workshops, guides, and notes designed to help me (and hopefully others) stay up to date with modern fullstack development practices.
 
-This is a curated selection of my favorite topics that were covered in our Frontend Community of Practice. These materials were created primarily during the pandemic (2020/2021), a time when staying updated with modern frontend technologies was both a necessity and a passion project for me.
-
-While some content may be slightly dated due to older library versions, I’m actively working to bring everything up to speed. Migrating my personal notes into a public repository was a big first step, and I’m excited to share these resources with a broader audience.
+> Note: Originally named Frontend Community Workshops Archive, this repository began as a collection of frontend-focused materials created during my time at [OVO Energy](https://www.ovoenergy.com)/[Kaluza](https://www.kaluza.com/) between 2019 and 2022). It served as a fantastic way to learn, document, and share knowledge. As I transition toward fullstack development, I aim to update these materials with modern practices, add backend and infrastructure-focused content, and explore new areas of interest.
 
 ---
 
-## 🚀 Workshops and Learning Materials
+## 🚀 Content
 
 Here’s an overview of the topics currently available in this repository:
 
@@ -88,4 +86,4 @@ Your feedback and suggestions are always welcome. If you find these resources he
 
 ## ❤️ Acknowledgments
 
-Thank you for taking the time to explore this repository. It’s a reflection of my passion for frontend development and community learning. I hope these materials inspire and empower you on your learning journey!
+Thank you for taking the time to explore this repository. It’s a reflection of my passion for fullstack development and community learning. I hope these materials inspire and empower you on your learning journey!
